@@ -23,8 +23,10 @@ def load_faiss_index():
             print("Corrupted index detected. Rebuilding...", e)
 
     print("Generating new FAISS index from mydata.txt...")
+
     with open("data/mydata.txt", "r", encoding="utf-8") as f:
         text = f.read()
+
     chunks = chunk_text(text)
     chunk_mapping = []
     all_embeddings = []
@@ -48,8 +50,8 @@ def load_faiss_index():
     print("Index built and saved.")
     return index, chunk_mapping
 
+
 def retrieve_chunks(query, index, chunk_mapping, k=3):
     query_vec = get_embedding(query)
     distances, indices = index.search(np.array([query_vec]).astype("float32"), k)
     return [chunk_mapping[i] for i in indices[0]]
-
