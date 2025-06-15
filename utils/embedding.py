@@ -1,6 +1,8 @@
 import requests
 import numpy as np
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 API_KEY = os.getenv("EURI_API_KEY")
 def get_embedding(text, model="text-embedding-3-small"):
