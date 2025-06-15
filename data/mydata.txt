@@ -1,0 +1,187 @@
+PRODIP SARKAR
+SUPERVISIOR LEVEL III (Kolkata Police Cyber Patrol Cell)
+prodip1023@gmail.com
+Single
+
+Male
+
+9073723337
+
+West Bengal, India
+
+https://www.linkedin.com/in/prodip1023/
+
+https://www.kaggle.com/prodip1023
+
+25/03/1989
+
+Indian
+
+https://github.com/prodip1023
+
+https://medium.com/@prodip1023
+
+https://Prodip-portfolio.github.io
+
+Profile
+Proficient in Python Developer. Currently working as Supervisor Level-III under Kolkata Police . Hold a key
+leadership role within the Kolkata Police Directorate, overseeing and coordinating activities related to crime
+preventions and maintain up-to-date knowledge to technological advancements and provide
+recommendations for system upgrades and improvements. I have a passion for consistent learning and
+innovating.
+
+Professional Experience
+Supervisor Level-III, Kolkata Police Directorate
+1. Technical Team Leader, Face Recognition System
+[2021-Present] WB, India
+Achievements/Tasks:
+Collaborate with external vendors for escalated issues or system
+optimization.
+Skills: Team Leadership, Face Recognition Technologies.
+2. Technical Support Specialist, National Automated Fingerprint
+Identification System (NAFIS)
+[2022-Present] WB, India
+Achievements/Tasks:
+- Respond promptly to technical issues reported by users,
+conducting thorough analysis and troubleshooting to identify
+root causes and implement effective solutions.
+Skills: Software Trainer, Proactive Issue Resolution, Technical
+Support.
+3. Technical Team Leader, Court and Correctional Homes Video
+Conferencing System
+[2022-Present] WB, India
+Achievements/Tasks:
+-Collaborate with stakeholders, including judicial authorities,
+correctional facility management, and IT teams, to understand user
+needs and tailor the Video Conferencing System to meet specific
+requirements.
+Skills: Stakeholder Collaboration, Team Leadership and Mentorship.
+
+04/2018 – present
+Kolkata, India
+
+4. Attained Several Technical Workshops
+a. Participant, Non-Jamming Anti-Drone Solution Demonstration
+[Shree Technologies] [24/11/2023] WB, India
+-Demonstrated the non-jamming anti-drone solution's effectiveness
+in a variety of scenarios, highlighting its potential applications in
+security, defense, and public safety.
+Skills: Non-Jamming Anti-Drone Technologies, Technical
+Communication
+b. Participant, Secure Coding Practice Framework
+[ Cyber Security Center of Excellence, WB] [02/08/2021 to 06/08/2021]
+-Actively engaged in an intensive training program focused on
+secure coding practices, with a particular emphasis on
+OWASP TOP 10.
+Skills: Code Review, Vulnerability Identification and Mitigation
+
+Projects
+PERSONAL PROJECTS, Diamond Price Prediction
+Spearheaded a data science project focused on predicting
+diamond prices using advanced machine learning techniques.
+Collected and preprocessed large datasets of diamond
+characteristics, ensuring data quality and relevance for model
+training.
+Applied regression and ensemble learning algorithms, such as
+linear regression, decision trees, and random forests, to build
+accurate predictive models for diamond prices.
+Conducted feature engineering to enhance model
+performance, considering factors like carat weight, cut, color,
+clarity, and other relevant attributes.
+Evaluated model performance using metrics such as Mean
+Squared Error (MSE) and Root Mean Squared Error (RMSE),
+iteratively refining models to achieve optimal results.
+
+09/2023 – 12/2023
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Skills: Python: NumPy, Pandas, Scikit-Learn.
+Data Visualization: Matplotlib, Seaborn.
+Machine Learning: Regression, Ensemble Learning.
+
+Skills
+Technical Skills:
+: C, Python, HTML/CSS, SQL, Git,
+Others:
+MS Office, Windows, Linus/Unix Operating System,
+Excel
+
+IDEs and Software:
+Visual Studio Code, PyCharm, Jupyter Notebook,
+Google Colaboratory
+
+Certificates
+Oracle Cloud Infrastructure
+2023 Certified Foundation
+Association
+[06/2023]
+
+Certificated Ethical Hacking
+professional
+[Indian Cyber Security Solutions]
+[07/2019]
+- Grade: A+
+- Skills: OWASP Top 10, Bug
+Bounty
+
+Certificated Python
+Programmer
+Indian Cyber Security Solutions]
+[05/2019]
+- Grade: A+
+- Project - Built in Music App
+using Tkinter
+
+Courses
+Full stack Data Science Master, iNeuron.ai
+Machine Learning, Deep Learning, Data Analytics, NLP,
+MLOPS, Git, SQL, NOSQL.
+
+05/2023 – present
+
+Education
+B.Tech. Computer Science and Engineering,
+Jalpaiguri Govt Engineering College
+Member of Photography Club.
+Cumulative GPA: 7.0/10
+
+07/2008 – 07/2012
+Jalpaiguri, India
+
+Higher Secondary, Duttapukur NEBADHAI HIGH SCHOOL
+Leadership: Class Representative
+Marks obtained : 314/400
+
+01/2006 – 01/2008
+Duttapukur, India
+
+
+Languages
+English
+
+Bengali
+
+Hindi
+
+Tech Blogging
+
+Open Source Contribution
+
+Game
+
+Reading
+
+Cricket
+
+Interests
+
+
