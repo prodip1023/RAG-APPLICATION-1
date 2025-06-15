@@ -11,3 +11,11 @@
 3. Install Requirements
 
 `pip install -r requirements.txt`
+
+# Project Structure
+
+![image](diagram.png)
+
+# Results 
+
+![result](result.png)
